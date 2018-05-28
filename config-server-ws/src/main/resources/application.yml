@@ -3,7 +3,7 @@ spring:
       config:
          server:
             git:
-               uri: C:\Users\aamit\Desktop\microservices\project\config-server
+               uri: C:\Users\aamit\Desktop\microservices\microservices-echosystem\config-server
 
 server:
    port: 9999
